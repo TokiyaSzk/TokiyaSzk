@@ -1,5 +1,5 @@
 # 你好，我是 TokiyaSzk 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TokiyaSzk)](https://github.com/anuraghazra/github-readme-stats)
 ## 关于我
 - 🔭 我目前在做 [中国舞萌玩家站](https://github.com/Salt-House/MaiWeb-CN))
 - 🌱 我正在学习C++、Kotlin、Go
